@@ -6,7 +6,7 @@
 ## Setting up the project:
 
 Initially we create an atSign by navigating to [Link](https://my.atsign.com/choose-atsign/a4a9686d92be5d97259bda204585a90ebbe09363fa3708612aefbd6a9cd9c770)
-  and place it in a keys folder containing the downloaded atKeys.
+  and place the downloaded keys in a seperate keys folder containing the downloaded atKeys.
 
 #### For Java client:
 •	Pull the at_java repository from [Link](https://github.com/atsign-foundation/at_java.git) into your local machine with an IDE installed such as       Eclipse/Visual Studio Code.  
