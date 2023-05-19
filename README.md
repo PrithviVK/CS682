@@ -16,13 +16,15 @@ For Dart client:
 
 Running the Project:
   Sending keys from:
-    1.	Dart client to Java client: 
+   1.	Dart client to Java client: 
     a.	Open terminal/command line in Mac/Windows.
     b.	Type ./dartToJava.sh to run the script to send keys from dart client to java client.
     c.	The terminal should display the sent and received keys and namespace.
-
-    2.	Java client to Dart client:
+    
+   2.	Java client to Dart client:
     a.	Open terminal/command line in Mac/Windows.
     b.	Type ./javaToDart.sh to run the script to send keys from dart client to java client.
     c.	The terminal should display the sent and received keys and namespace.
+
+   
 
