@@ -1,7 +1,7 @@
 # CS682
 # Java Interoperability Unit Tests
 
-
+Java interoperability unit tests between a java client and dart client. The problem focuses on testing the consistency of communication between server and two different clients. We explore sending and retrieving of same key-value pair between a java and dart client.
 
 ## Setting up the project:
 
