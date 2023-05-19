@@ -5,6 +5,13 @@ Java interoperability unit tests between a java client and dart client. The prob
 
 ## Setting up the project:
 
+### Requirements:
+
+•	[Java editor](https://www.jetbrains.com/idea/download/#section=mac)
+
+•	[Flutter SDK](https://docs.flutter.dev/get-started/install/windows)
+
+
 Initially we create an atSign by navigating to [Link](https://my.atsign.com/choose-atsign/a4a9686d92be5d97259bda204585a90ebbe09363fa3708612aefbd6a9cd9c770)
   and place the downloaded keys in a seperate keys folder in your project.
 
@@ -17,7 +24,7 @@ Initially we create an atSign by navigating to [Link](https://my.atsign.com/choo
 #### For Dart client:
 •	Pull the at_client_sdk repository from [Link](https://github.com/atsign-foundation/at_client_sdk.git) into your local machine with an IDE installed   such as Eclipse/Visual Studio Code.  
 
-•	Install Maven dependencies by running the pubspec.yaml file present in at_client_sdk>tests.
+•	Install dependencies by running the pubspec.yaml file present in at_client_sdk>tests.
 
 ## Running the Project:
 Sending keys from:  
