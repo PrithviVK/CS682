@@ -9,7 +9,7 @@ Java interoperability unit tests between a java client and dart client. The prob
 
 •	[Java editor](https://www.jetbrains.com/idea/download/#section=mac)
 
-•	[Flutter SDK](https://docs.flutter.dev/get-started/install/windows)
+•	[Flutter SDK](https://docs.flutter.dev/get-started/install/macos)
 
 
 Initially we create an atSign by navigating to [Link](https://my.atsign.com/choose-atsign/a4a9686d92be5d97259bda204585a90ebbe09363fa3708612aefbd6a9cd9c770)
